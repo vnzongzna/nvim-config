@@ -48,7 +48,7 @@ return packer.startup(function(use)
   -- Not so Basic
   use {
     "gioele/vim-autoswap",
-    "whatyouhide/vim-gotham",
+    "folke/tokyonight.nvim",
     "mhinz/vim-startify",
     "airblade/vim-gitgutter",
     "vimwiki/vimwiki",
